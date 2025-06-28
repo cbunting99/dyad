@@ -1,8 +1,11 @@
-# dyad
+⚠️ **IMPORTANT: This version has been modified by Chris Bunting.** Although I've updated the file tree to have a familiar layout, there could be some bugs. Not much testing has been done at this time.
 
 Dyad is a local, open-source AI app builder. It's fast, private and fully under your control — like Lovable, v0, or Bolt, but running right on your machine.
 
 ![Image](https://github.com/user-attachments/assets/f6c83dfc-6ffd-4d32-93dd-4b9c46d17790)
+
+![Image](https://github.com/cbunting99/dyad/blob/main/assets/filetree.png)
+_Note: The file tree structure has been updated in recent versions for improved organization._
 
 More info at: [http://dyad.sh/](http://dyad.sh/)
 
